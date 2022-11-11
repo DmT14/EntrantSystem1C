@@ -7,13 +7,13 @@
 
 ## Схема базы данных
 Ниже приведена схема  базы данных разработанной системы.
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/database.png" alt="Схема БД" width="1000"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/database.png" alt="Схема БД" width="1150"/>
 
 ## Скриншоты работы системы
 Далее приведены некоторые скриншоты работы системы.
 
 На начальной странице размещены наиболее часто используемые формы разработанной системы.
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/start_page.png" alt="Начальная страница" width="700"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/start_page.png" alt="Начальная страница" width="750"/>
 
 В разработанной системе реализована возможность создания записи об абитуриенте.
 <br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/create_entrant.png" alt="Создание записи об абитуриенте" width="700"/>
@@ -22,10 +22,10 @@
 <br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/errors.png" alt="Сообщения об ошибке" width="700"/>
 
 Отчёты представляют собой таблицы, в которых выводится определённая информация. Ниже представлен сформированный отчёт «Распределение по уровням образования для поступления».
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/report.png" alt="Отчёт" width="700"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/report.png" alt="Отчёт" width="750"/>
 
 Наибольший интерес представляет отчёт «Конкурсные списки абитуриентов», показывающий конкурсную ситуацию по конкретной образовательной программе.
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/competition_lists.png" alt="Конкурсные списки" width="750"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/competition_lists.png" alt="Конкурсные списки" width="900"/>
 
 Существует возможность выбрать файл для добавления скан-копии. Если файл выбран, можно открыть его, кликнув по кнопке «Открыть файл».
 <br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/scans.png" alt="Хранение скан-копий" width="750"/>
