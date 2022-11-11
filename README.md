@@ -7,13 +7,13 @@
 
 ## Схема базы данных
 Ниже приведена схема  базы данных разработанной системы.
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/database.png" alt="Схема БД" width="700"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/database.png" alt="Схема БД" width="1000"/>
 
 ## Скриншоты работы системы
 Далее приведены некоторые скриншоты работы системы.
 
 На начальной странице размещены наиболее часто используемые формы разработанной системы.
-<br><img src="https://github.com/DmT14/BulletinBoard/blob/main/screenshots/ER_diagram.png" alt="Начальная страница" width="700"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/start_page.png" alt="Начальная страница" width="700"/>
 
 В разработанной системе реализована возможность создания записи об абитуриенте.
 <br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/create_entrant.png" alt="Создание записи об абитуриенте" width="700"/>
@@ -22,16 +22,16 @@
 <br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/errors.png" alt="Сообщения об ошибке" width="700"/>
 
 Отчёты представляют собой таблицы, в которых выводится определённая информация. Ниже представлен сформированный отчёт «Распределение по уровням образования для поступления».
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/report.pngg" alt="Отчёт" width="700"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/report.png" alt="Отчёт" width="700"/>
 
 Наибольший интерес представляет отчёт «Конкурсные списки абитуриентов», показывающий конкурсную ситуацию по конкретной образовательной программе.
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/start_page.png" alt="Конкурсные списки" width="700"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/competition_lists.png" alt="Конкурсные списки" width="750"/>
 
 Существует возможность выбрать файл для добавления скан-копии. Если файл выбран, можно открыть его, кликнув по кнопке «Открыть файл».
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/scans.png" alt="Хранение скан-копий" width="700"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/scans.png" alt="Хранение скан-копий" width="750"/>
  
 Одной из наиболее важных функциональных возможностей разработанной системы является возможность формирования приказов о зачислении.
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/enrollment_order.png" alt="Приказ о зачислении" width="700"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/enrollment_order.png" alt="Приказ о зачислении" width="500"/>
 
 ## Дополнительная информация
 Если Вы хотите подробнее ознакомиться с материалами проекта, можете посмотреть [этот документ](https://disk.yandex.ru/i/04usqBlsSA1QhQ).
