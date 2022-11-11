@@ -13,7 +13,7 @@
 Далее приведены некоторые скриншоты работы системы.
 
 На начальной странице размещены наиболее часто используемые формы разработанной системы.
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/start_page.png" alt="Начальная страница" width="750"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/start_page.png" alt="Начальная страница" width="800"/>
 
 В разработанной системе реализована возможность создания записи об абитуриенте.
 <br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/create_entrant.png" alt="Создание записи об абитуриенте" width="700"/>
@@ -25,7 +25,7 @@
 <br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/report.png" alt="Отчёт" width="750"/>
 
 Наибольший интерес представляет отчёт «Конкурсные списки абитуриентов», показывающий конкурсную ситуацию по конкретной образовательной программе.
-<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/competition_lists.png" alt="Конкурсные списки" width="900"/>
+<br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/competition_lists.png" alt="Конкурсные списки" width="1000"/>
 
 Существует возможность выбрать файл для добавления скан-копии. Если файл выбран, можно открыть его, кликнув по кнопке «Открыть файл».
 <br><img src="https://github.com/DmT14/EntrantSystem1C/blob/main/screenshots/scans.png" alt="Хранение скан-копий" width="750"/>
